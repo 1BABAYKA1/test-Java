@@ -1,1 +1,9 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Люблю самостоятельный работы<3");
+        System.out.println("А Александр лучший учитель!");
+    }
+}
 
